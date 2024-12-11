@@ -37,11 +37,5 @@ Ce script HUD offre une interface élégante et fonctionnelle.
 
 ---
 
-## Contribuer
-
-Les contributions sont les bienvenues ! Si vous souhaitez signaler un bug ou proposer une amélioration, ouvrez une *issue* ou une *pull request*.
-
----
-
 **Auteur :** !Junior  
 **Lien vers le tutoriel YouTube :** [Cliquez ici](https://www.youtube.com/@juniordev_)
