@@ -25,7 +25,7 @@ Ce script HUD offre une interface élégante et fonctionnelle.
 2. Placez le dossier dans le répertoire `resources` de votre serveur FiveM.
 3. Ajoutez la ligne suivante à votre fichier `server.cfg` :
    ```
-   ensure nom_du_script
+   ensure FB_Hud
    ```
 4. Redémarrez votre serveur.
 ---
