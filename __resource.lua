@@ -9,8 +9,7 @@ client_scripts {
 ui_page 'ui.html'
 
 files {
-	'main.js',
-	'ui.html',
+	'ui.html'
 }
 
 dependencies {
